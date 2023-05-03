@@ -6,4 +6,3 @@ Total User Size : 307.966
 
 Airdropped User Size : 40.000 User. 300k people have been whitelisted in the form of first come first served 40k people will benefit from aridrop.
 
-Proof of Address : https://anonymfile.com/k0B6b/proofs-ofaddress.json
